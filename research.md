@@ -33,7 +33,7 @@
 
 
 
-## **2. [오늘의 집]((https://www.wanted.co.kr/wd/105450)**
+## **2. [오늘의 집](https://www.wanted.co.kr/wd/105450)**
 
 ###### 주요업무
 
