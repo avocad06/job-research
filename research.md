@@ -2,7 +2,7 @@
 
 
 
-## **1. [화해]([Frontend Developer | 화해(버드뷰) (wanted.co.kr)](https://www.wanted.co.kr/wd/37821))**
+## **1. [화해](https://www.wanted.co.kr/wd/37821)**
 
 ###### **주요업무**
 
@@ -33,7 +33,7 @@
 
 
 
-## **2. [오늘의 집]([Software Engineer, Frontend | 버킷플레이스(오늘의집) (wanted.co.kr)](https://www.wanted.co.kr/wd/105450))**
+## **2. [오늘의 집]((https://www.wanted.co.kr/wd/105450)**
 
 ###### 주요업무
 
@@ -65,7 +65,7 @@
 
 
 
-## **3. [아이나비]([Web 서비스 개발자 (programmers.co.kr)](https://career.programmers.co.kr/job_positions/6545?by_theme=true))**
+## **3. [아이나비](https://career.programmers.co.kr/job_positions/6545?by_theme=true)**
 
 ##### 주요 업무
 
@@ -94,7 +94,7 @@
 
 
 
-## **4. [뱅크샐러드]([웹 프론트엔드 엔지니어 (Web Front-End Engineer) | 뱅크샐러드 (wanted.co.kr)](https://www.wanted.co.kr/wd/41697))**
+## **4. [뱅크샐러드](https://www.wanted.co.kr/wd/41697)**
 
 ###### 주요업무
 
@@ -125,7 +125,7 @@
 
 
 
-## **5. [인프런]([프론트엔드 개발자 (React / VanillaJS) (신입/경력) (notion.site)](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569))**
+## **5. [인프런](https://inflab.notion.site/React-VanillaJS-297e778f28334a50b5e68b8a898de569)**
 
 **자격요건**
 
@@ -179,7 +179,7 @@
 
 
 
-## **6. [넥슨코리아]([[인텔리전스랩스\] 매치메이킹 서버 개발자 (programmers.co.kr)](https://career.programmers.co.kr/job_positions/9328?by_theme=true))**
+## **6. [넥슨코리아](https://career.programmers.co.kr/job_positions/9328?by_theme=true)**
 
 **자격요건**
 
@@ -195,7 +195,7 @@
 
 
 
-## **7. [리디(Backend)]([백엔드 엔지니어 (programmers.co.kr)](https://career.programmers.co.kr/job_positions/2616))**
+## **7. [리디(Backend)](https://career.programmers.co.kr/job_positions/2616)**
 
 **자격요건**
 
@@ -213,7 +213,7 @@
 
 
 
-## 	**7-1. [리디(Frontend)]([프론트엔드 엔지니어 (programmers.co.kr)](https://career.programmers.co.kr/job_positions/2617))**
+## 	**7-1. [리디(Frontend)](https://career.programmers.co.kr/job_positions/2617)**
 
 **자격요건**
 
